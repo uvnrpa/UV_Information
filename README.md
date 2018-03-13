@@ -4,7 +4,7 @@
 ## Overview
 
 ## Online UV-Index
-Graphic presentation of UV measurements [Online UVI](https://www.nrpa.no/uvnett/default_en.aspx)
+Graphic presentation of [Online UV measurements](https://www.nrpa.no/uvnett/default_en.aspx)
 
 
 ## Cooperating partners
