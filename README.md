@@ -6,4 +6,4 @@
 ## Cooperating partners
 
 
-![alt tax](https://github.com/uvnrpa/UV_Information/network_location.png)
+![alt tax](network_location.png)
