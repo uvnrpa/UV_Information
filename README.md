@@ -5,5 +5,5 @@
 
 ## Cooperating partners
 
-![GitHub Logo](https://github.com/uvnrpa/UV_Information/network_location.png)
-Format: ![Alt Text](url)
+
+![alt text](https://github.com/uvnrpa/UV_Information/network_location.png)
