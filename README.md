@@ -1,12 +1,12 @@
 # About the Norwegian UV-network
-The Norwegian UV-network consists of 9 stations with GUV multiband filter radiometers (Biospherical Instruments inc.). The stations are strategically placed in different locations to provide the best latitude and topographical coverage. The southernmost station is placed nearby Grimstad (Landvik), and the northernmost in Ny-Ålesund in Svalbard, as shown on the map below![Alt text](network_location.png)
+The Norwegian UV-network consists of currently 9 stations with GUV multiband filter radiometers (Biospherical Instruments inc.). Two of these GUV instruments have been operating at two other locations for some years, hence 11 stations are listed. The stations represent large variations in climatology and population density. The southernmost station is placed nearby Grimstad (Landvik), and the northernmost in Ny-Ålesund in Svalbard, as shown on the map below![Alt text](network_location.png)
 
 ## Overview
-The repositories contain 11 quality controlled dose products for 9 UV monitoring stations in Norway for the period 1995/96 - 2019. The data are presented as 1-minute and hourly mean irradiances, and daily-, monthly- and yearly integrated doses for real sky conditions, as well as cloudfree conditions. In addition, there is a repository with minute values of UV-indices. Gaps in measurements have been complemented with modelled values, based on cloud modification factors derived from synoptic cloud observations and pyranometer data, as well as derived from the [STRÅNG model](http://strang.smhi.se/). 
+The repositories contain 11 quality controlled dose products for 9 (11) UV monitoring stations in Norway, basically for the period 1995/96 - 2020. The data are presented as 1-minute and hourly mean irradiances, and daily-, monthly- and yearly integrated doses for real sky conditions, as well as simulated cloudfree conditions. Gaps in measurement series have been complemented with modelled values, based on cloud modification factors primarily derived from nearby operating pyranometers, as well as from cloud cover observations. Where such ancillary observation data is missing, we have used cloud modification factors based on data extracted from the [STRÅNG model](http://strang.smhi.se/) of the Swedish Meteorological and Hydrological Institute (SMHI).
 
 ## Online UV-Index
 Online and forecasted UVI, with a graphical presentation, are found on  
-*  NRPA [Online UV measurements](https://www.nrpa.no/uvnett/default_en.aspx)
+*  DSA [Online UV measurements](https://uvnett.dsa.no/default_en.aspx)
 *  NILU [Near real-time and forcasted UV](http://uv.nilu.no/)
 
 ## Cooperating partners
